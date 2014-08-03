@@ -1,0 +1,3 @@
+services:
+    cheric.my_service:
+        class: Cheric\ExampleBundle\Service\MyService
